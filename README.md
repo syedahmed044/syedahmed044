@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Syed Ahmed 👋
+# Hi there, I'm Ahmed 👋
 
 ### Aspiring Full Stack Developer | Student | Builder
 
